@@ -1,10 +1,11 @@
 ## caching the inversion of a matrix
 ## make these sources following "Caching the Mean of a Vector"
 
+
 ## create a special matrix object that can cache its inverse.
-## 1. get the matrix
+## 1. get the matrix 
 ## 2. set the matrix
-## 3. get the inverse of matrix
+## 3. get the inverse of matrix 
 ## 4. set the inverse of matrix
 
 makeCacheMatrix <- function(x = matrix()) {
